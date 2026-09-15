@@ -1,5 +1,7 @@
 # Brandon Candela
 
+**[Visit my AML & SQL portfolio](https://brandoncandela.github.io/)** · Public demos, SQL examples and project methodology.
+
 ### AML transaction monitoring · SQL portfolio · Adverse media · Sanctions · Crypto investigations
 
 I'm Brandon Candela, an AML transaction monitoring professional applying investigative experience to public blockchain data, sanctions review and adverse media screening workflows. I build educational portfolio projects with AI-assisted development, focusing on evidence, alternative explanations, clear documentation and quality control (QC).
