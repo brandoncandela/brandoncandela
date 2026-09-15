@@ -11,7 +11,6 @@ I'm Brandon Candela, an AML transaction monitoring professional applying investi
 | **Trace Desk: USDT Investigator** | A saved Ethereum case with 15 addresses, recorded transfers, a relationship graph and an investigation report. | [Demo](https://brandon-usdt-investigator.brandon-d-candela.chatgpt.site/) · [Code and methodology](https://github.com/brandoncandela/usdt-investigator) |
 | **Trace Desk AML Workspace** | Bounded USDT transaction reviews, pinned evidence, portable case files, analyst assessments and QC feedback. | [Demo](https://brandon-usdt-workspace.brandon-d-candela.chatgpt.site/) · [Code and methodology](https://github.com/brandoncandela/trace-desk-aml-workspace) |
 | **Sanctions Review Desk** | OFAC SDN name and alias search, individual and business case comparisons, evidence requests and documentation review. Official-data fallback refreshes hourly and rejects copies older than 24 hours. | [Demo](https://brandon-sanctions-review-desk.brandon-d-candela.chatgpt.site/) · [Code and methodology](https://github.com/brandoncandela/sanctions-review-desk) |
-
 | **Adverse Media Review Desk** | Compare customer details with media subjects, review multiple hits, document identity evidence and QC decisions, and explore SQL training examples. | [Demo](https://brandon-adverse-media-review-desk.brandon-d-candela.chatgpt.site/) · [Code and methodology](https://github.com/brandoncandela/adverse-media-review-desk) |
 
 ## My approach
