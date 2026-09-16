@@ -1,6 +1,10 @@
 # Brandon Candela
 
-**[Visit my AML & SQL portfolio](https://brandoncandela.github.io/)** · Public demos, SQL examples and project methodology.
+## [Visit my personal website →](https://brandoncandela.github.io/)
+
+Explore my AML and financial crime experience, certifications, interactive project demos and SQL work samples.
+
+[Work experience](https://brandoncandela.github.io/#experience) · [Projects](https://brandoncandela.github.io/#projects) · [SQL examples](https://brandoncandela.github.io/#sql) · [Contact](https://brandoncandela.github.io/#contact)
 
 ### AML transaction monitoring · SQL portfolio · Adverse media · Sanctions · Crypto investigations
 
