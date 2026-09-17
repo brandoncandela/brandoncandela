@@ -10,6 +10,12 @@ Explore my AML and financial crime experience, certifications, interactive proje
 
 I'm Brandon Candela, an AML transaction monitoring professional applying investigative experience to public blockchain data, sanctions review and adverse media screening workflows. I build educational portfolio projects with AI-assisted development, focusing on evidence, alternative explanations, clear documentation and quality control (QC).
 
+## Payments Strategy Lab
+
+[**Try the consulting case**](https://brandon-payments-strategy-lab.brandon-d-candela.chatgpt.site) · [Source and tests](https://github.com/brandoncandela/payments-strategy-lab)
+
+Compare payments growth, fraud losses and review capacity using a transparent financial model. Stress the assumptions, evaluate staffing economics and write a decision memo for a 90-day pilot. An independent synthetic work sample demonstrating business analysis and risk strategy, not a real client engagement.
+
 ## Featured: SQL Financial Crime Lab
 
 [**Try the public demo**](https://brandon-sql-fincrime-lab.brandon-d-candela.chatgpt.site) · [Source code](https://github.com/brandoncandela/sql-fincrime-lab) · [SQL queries](https://github.com/brandoncandela/sql-fincrime-lab/blob/main/dist/queries.sql)
