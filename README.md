@@ -10,6 +10,12 @@ Explore my AML and financial crime experience, certifications, interactive proje
 
 I'm Brandon Candela, an AML transaction monitoring professional applying investigative experience to public blockchain data, sanctions review and adverse media screening workflows. I build educational portfolio projects with AI-assisted development, focusing on evidence, alternative explanations, clear documentation and quality control (QC).
 
+## Featured: Fraud Intelligence & Control Lab
+
+[**Open the interactive demo**](https://brandon-fraud-intelligence-control-lab.brandon-d-candela.chatgpt.site)
+
+Investigate a synthetic fraud spike across 60 accounts and 3,771 transactions. Tune an alert threshold, compare precision and recall, inspect a shared-device network, review control-health signals and write an executive recommendation. The work sample demonstrates Python data generation, advanced SQL feature engineering, graph analysis, rule testing, data-quality monitoring and risk communication.
+
 ## Payments Strategy Lab
 
 [**Try the consulting case**](https://brandon-payments-strategy-lab.brandon-d-candela.chatgpt.site) · [Source and tests](https://github.com/brandoncandela/payments-strategy-lab)
@@ -38,6 +44,7 @@ My background is in AML transaction monitoring. These public work samples show h
 
 | Project | What you can explore | Links |
 | --- | --- | --- |
+| **Fraud Intelligence & Control Lab** | Python-generated synthetic data, SQL feature engineering, linked-account analysis, precision/recall tradeoffs and executive control recommendations. | [Demo](https://brandon-fraud-intelligence-control-lab.brandon-d-candela.chatgpt.site) |
 | **SQL Financial Crime Lab** | Real SQLite monitoring queries, threshold tradeoffs, seeded-case evaluation, analyst assessments and local QC role-play. | [Demo](https://brandon-sql-fincrime-lab.brandon-d-candela.chatgpt.site) · [SQL, code and tests](https://github.com/brandoncandela/sql-fincrime-lab) |
 | **Trace Desk: USDT Investigator** | A saved Ethereum case with 15 addresses, recorded transfers, a relationship graph and an investigation report. | [Demo](https://brandon-usdt-investigator.brandon-d-candela.chatgpt.site/) · [Code and methodology](https://github.com/brandoncandela/usdt-investigator) |
 | **Trace Desk AML Workspace** | Bounded USDT transaction reviews, pinned evidence, portable case files, analyst assessments and QC feedback. | [Demo](https://brandon-usdt-workspace.brandon-d-candela.chatgpt.site/) · [Code and methodology](https://github.com/brandoncandela/trace-desk-aml-workspace) |
