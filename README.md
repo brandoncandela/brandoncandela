@@ -1,6 +1,6 @@
 # Hi, I'm Brandon Candela 👋
 
-**CAMS-certified AML & KYC consultant** with five years across **KPMG, IBM Promontory, Deutsche Bank and BNY Mellon**. I build working tools for fraud, transaction monitoring, sanctions and crypto investigations, so you can see how I think through a case.
+**CAMS- and PMP-certified AML & KYC consultant** with five years across **KPMG, IBM Promontory, Deutsche Bank and BNY Mellon**. I build working tools for fraud, transaction monitoring, sanctions and crypto investigations, so you can see how I think through a case.
 
 **[Visit my portfolio →](https://brandoncandela.github.io/)** · [LinkedIn](https://www.linkedin.com/in/brandon-candela/) · [Email](mailto:Brandon.d.candela@gmail.com) · Open to fintech, AML and risk roles (remote or New York)
 
@@ -21,7 +21,7 @@
 - **Investigations:** transaction monitoring, SAR narratives and QC, KYC/CDD/EDD, beneficial ownership, PEP, sanctions and adverse media
 - **Data:** SQL (SQLite, joins, CTEs, window functions), Python, Excel, control and rule tuning
 - **Platforms:** NICE Actimize, LexisNexis, CLEAR, Thomson Reuters, DDIQ, Moody's RDC
-- **Delivery:** trained 20+ analysts, Agile project management, UAT, bilingual English/Spanish
+- **Delivery:** PMP-certified; trained 20+ analysts, Agile project management, UAT, bilingual English/Spanish
 
 ## How I work
 
