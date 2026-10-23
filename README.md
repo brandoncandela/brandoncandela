@@ -1,60 +1,28 @@
-# Brandon Candela
+# Hi, I'm Brandon Candela 👋
 
-## [Visit my personal website →](https://brandoncandela.github.io/)
+**CAMS-certified AML & KYC consultant** with five years across **KPMG, IBM Promontory, Deutsche Bank and BNY Mellon**. I build working tools for fraud, transaction monitoring, sanctions and crypto investigations, so you can see how I think through a case.
 
-Explore my AML and financial crime experience, certifications, interactive project demos and SQL work samples.
+**[Visit my portfolio →](https://brandoncandela.github.io/)** · [LinkedIn](https://www.linkedin.com/in/brandon-candela/) · [Email](mailto:Brandon.d.candela@gmail.com) · Open to fintech, AML and risk roles (remote or New York)
 
-[Work experience](https://brandoncandela.github.io/#experience) · [Projects](https://brandoncandela.github.io/#projects) · [SQL examples](https://brandoncandela.github.io/#sql) · [Contact](https://brandoncandela.github.io/#contact)
+## Live projects
 
-### AML transaction monitoring · SQL portfolio · Adverse media · Sanctions · Crypto investigations
-
-I'm Brandon Candela, an AML transaction monitoring professional applying investigative experience to public blockchain data, sanctions review and adverse media screening workflows. I build educational portfolio projects with AI-assisted development, focusing on evidence, alternative explanations, clear documentation and quality control (QC).
-
-## Featured: Fraud Intelligence & Control Lab
-
-[**Open the interactive demo**](https://brandon-fraud-intelligence-control-lab.brandon-d-candela.chatgpt.site) · [Source, SQL and tests](https://github.com/brandoncandela/fraud-intelligence-control-lab)
-
-Investigate a synthetic fraud spike across 60 accounts and 3,771 transactions. Tune an alert threshold, compare precision and recall, inspect a shared-device network, review control-health signals and write an executive recommendation. The work sample demonstrates Python data generation, advanced SQL feature engineering, graph analysis, rule testing, data-quality monitoring and risk communication.
-
-## Payments Strategy Lab
-
-[**Try the consulting case**](https://brandon-payments-strategy-lab.brandon-d-candela.chatgpt.site) · [Source and tests](https://github.com/brandoncandela/payments-strategy-lab)
-
-Compare payments growth, fraud losses and review capacity using a transparent financial model. Stress the assumptions, evaluate staffing economics and write a decision memo for a 90-day pilot. An independent synthetic work sample demonstrating business analysis and risk strategy, not a real client engagement.
-
-## Featured: SQL Financial Crime Lab
-
-[**Try the public demo**](https://brandon-sql-fincrime-lab.brandon-d-candela.chatgpt.site) · [Source code](https://github.com/brandoncandela/sql-fincrime-lab) · [SQL queries](https://github.com/brandoncandela/sql-fincrime-lab/blob/main/dist/queries.sql)
-
-Explore three transaction-monitoring scenarios, adjust thresholds and see both alert-volume changes and missed seeded cases. Inspect real SQLite queries, document an analyst assessment and role-play QC review. Includes synthetic fixtures, SQL tests and an implementation/UAT guide. Reviews stay in the visitor's browser; this is an independent educational work sample, not a production compliance platform.
-
-## Recruiter quick start
-
-My background is in AML transaction monitoring. These public work samples show how I apply investigative judgment to identity comparisons, evidence gaps, documented decisions and QC, with SQL and AI-assisted application development.
-
-**For name-screening work, explore [Adverse Media Review Desk](https://github.com/brandoncandela/adverse-media-review-desk)** for SQL and name-screening work: [try the demo](https://brandon-adverse-media-review-desk.brandon-d-candela.chatgpt.site/), inspect the [SQL schema and examples](https://github.com/brandoncandela/adverse-media-review-desk/blob/main/public/data-model.sql), and review the [SQL triage view](https://github.com/brandoncandela/adverse-media-review-desk/blob/main/drizzle/0002_triage_view.sql).
-
-**SQL demonstrated:** relational tables, foreign keys, JOINs, CTEs, CASE expressions, GROUP BY aggregations, JSON extraction and database migrations in SQLite / Cloudflare D1. Training data is fictional; this is a portfolio demonstration, not a claim of production SQL experience.
-
-**Role interests:** AML investigations, transaction monitoring, adverse media screening, sanctions review, crypto compliance and AML data analysis.
-
-[Contact me on LinkedIn](https://www.linkedin.com/in/brandon-candela/)
-
-## Explore my projects
-
-| Project | What you can explore | Links |
+| Project | What it shows | Links |
 | --- | --- | --- |
-| **Fraud Intelligence & Control Lab** | Python-generated synthetic data, SQL feature engineering, linked-account analysis, precision/recall tradeoffs and executive control recommendations. | [Demo](https://brandon-fraud-intelligence-control-lab.brandon-d-candela.chatgpt.site) · [Source](https://github.com/brandoncandela/fraud-intelligence-control-lab) |
-| **SQL Financial Crime Lab** | Real SQLite monitoring queries, threshold tradeoffs, seeded-case evaluation, analyst assessments and local QC role-play. | [Demo](https://brandon-sql-fincrime-lab.brandon-d-candela.chatgpt.site) · [SQL, code and tests](https://github.com/brandoncandela/sql-fincrime-lab) |
-| **Trace Desk: USDT Investigator** | A saved Ethereum case with 15 addresses, recorded transfers, a relationship graph and an investigation report. | [Demo](https://brandon-usdt-investigator.brandon-d-candela.chatgpt.site/) · [Code and methodology](https://github.com/brandoncandela/usdt-investigator) |
-| **Trace Desk AML Workspace** | Bounded USDT transaction reviews, pinned evidence, portable case files, analyst assessments and QC feedback. | [Demo](https://brandon-usdt-workspace.brandon-d-candela.chatgpt.site/) · [Code and methodology](https://github.com/brandoncandela/trace-desk-aml-workspace) |
-| **Sanctions Review Desk** | OFAC SDN name and alias search, individual and business case comparisons, evidence requests and documentation review. Official-data fallback refreshes hourly and rejects copies older than 24 hours. | [Demo](https://brandon-sanctions-review-desk.brandon-d-candela.chatgpt.site/) · [Code and methodology](https://github.com/brandoncandela/sanctions-review-desk) |
-| **Adverse Media Review Desk** | SQL / SQLite training database, JOINs, CTEs, CASE-based triage and aggregate reporting, alongside customer-to-media comparisons and QC. | [Demo](https://brandon-adverse-media-review-desk.brandon-d-candela.chatgpt.site/) · [Code and methodology](https://github.com/brandoncandela/adverse-media-review-desk) |
+| **[Fraud Intelligence & Control Lab](https://github.com/brandoncandela/fraud-intelligence-control-lab)** | Python + SQL feature engineering, control tuning with precision/recall tradeoffs, shared-device link analysis, executive recommendation | [Live demo](https://brandoncandela.github.io/fraud-intelligence-control-lab/) |
+| **[Payments Strategy Lab](https://github.com/brandoncandela/payments-strategy-lab)** | Payments unit economics, approval rate vs. fraud loss, review staffing and a 90-day pilot memo | [Live demo](https://brandoncandela.github.io/payments-strategy-lab/) |
+| **[SQL Financial Crime Lab](https://github.com/brandoncandela/sql-fincrime-lab)** | Real SQLite in the browser: joins, CTEs, window functions, AML rule tuning and missed-case measurement | [Live demo](https://brandoncandela.github.io/sql-fincrime-lab/) |
+| **[Sanctions Review Desk](https://github.com/brandoncandela/sanctions-review-desk)** | OFAC name search, identifier comparison, export-control context, information requests and QC | [Live demo](https://brandon-sanctions-review-desk.brandon-d-candela.chatgpt.site/) |
+| **[Adverse Media Review Desk](https://github.com/brandoncandela/adverse-media-review-desk)** | Identity resolution that treats missing data as unknown, SQL triage views on SQLite / D1 | [Live demo](https://brandon-adverse-media-review-desk.brandon-d-candela.chatgpt.site/) |
+| **[Trace Desk AML Workspace](https://github.com/brandoncandela/trace-desk-aml-workspace)** | Live Ethereum USDT tracing, evidence pinning and portable case files | [Live demo](https://brandoncandela.github.io/trace-desk-aml-workspace/) |
+| **[Trace Desk: USDT Investigator](https://github.com/brandoncandela/usdt-investigator)** | Reproducible 15-address Ethereum case: evidence, relationship graph and analyst report | [Live demo](https://brandoncandela.github.io/usdt-investigator/) |
 
-## My approach
+## What I bring
 
-Start with the evidence. Separate observations from assumptions. Consider what could challenge an interpretation. Give another analyst enough context to review the conclusion.
+- **Investigations:** transaction monitoring, SAR narratives and QC, KYC/CDD/EDD, beneficial ownership, PEP, sanctions and adverse media
+- **Data:** SQL (SQLite, joins, CTEs, window functions), Python, Excel, control and rule tuning
+- **Platforms:** NICE Actimize, LexisNexis, CLEAR, Thomson Reuters, DDIQ, Moody's RDC
+- **Delivery:** trained 20+ analysts, Agile project management, UAT, bilingual English/Spanish
 
-These are independent educational work samples, not production compliance systems or employer-endorsed products. A transaction pattern or name match is an investigation lead, not proof of wrongdoing or sanctions clearance. Each project documents its scope and limitations.
+## How I work
 
-[Connect with Brandon Candela on LinkedIn](https://www.linkedin.com/in/brandon-candela/)
+A name match is a lead, not a conclusion. Missing information isn't a mismatch. Every decision should be explainable to the next reviewer. Each project documents its scope and limits, and uses fictional or public data.
