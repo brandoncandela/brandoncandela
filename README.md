@@ -9,6 +9,7 @@
 
 | Project | What it shows | Links |
 | --- | --- | --- |
+| **[Crypto Exchange Monitoring Lab](https://github.com/brandoncandela/crypto-exchange-monitoring-lab)** 🆕 | Six SQL rules screen an exchange's transfers against real OFAC-listed wallets and their Tron USDT links: sanctions exposure, pass-through, structuring, fan-out, Travel Rule gaps | [Live demo](https://brandoncandela.github.io/crypto-exchange-monitoring-lab/) |
 | **[Fraud Intelligence & Control Lab](https://github.com/brandoncandela/fraud-intelligence-control-lab)** | Python + SQL feature engineering, control tuning with precision/recall tradeoffs, shared-device link analysis, executive recommendation | [Live demo](https://brandoncandela.github.io/fraud-intelligence-control-lab/) |
 | **[Payments Strategy Lab](https://github.com/brandoncandela/payments-strategy-lab)** | Payments unit economics, approval rate vs. fraud loss, review staffing and a 90-day pilot memo | [Live demo](https://brandoncandela.github.io/payments-strategy-lab/) |
 | **[SQL Financial Crime Lab](https://github.com/brandoncandela/sql-fincrime-lab)** | Real SQLite in the browser: joins, CTEs, window functions, AML rule tuning and missed-case measurement | [Live demo](https://brandoncandela.github.io/sql-fincrime-lab/) |
