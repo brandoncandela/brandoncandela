@@ -5,14 +5,21 @@
 **[Visit my portfolio →](https://brandoncandela.github.io/)** · [LinkedIn](https://www.linkedin.com/in/brandon-candela/) · [Email](mailto:Brandon.d.candela@gmail.com) · Open to fintech, AML and risk roles (remote or New York)
 
 
-## Live projects
+## Featured projects
 
 | Project | What it shows | Links |
 | --- | --- | --- |
-| **[Crypto Exchange Monitoring Lab](https://github.com/brandoncandela/crypto-exchange-monitoring-lab)** 🆕 | Six SQL rules screen an exchange's transfers against real OFAC-listed wallets and their Tron USDT links: sanctions exposure, pass-through, structuring, fan-out, Travel Rule gaps | [Live demo](https://brandoncandela.github.io/crypto-exchange-monitoring-lab/) |
-| **[Fraud Intelligence & Control Lab](https://github.com/brandoncandela/fraud-intelligence-control-lab)** | Python + SQL feature engineering, control tuning with precision/recall tradeoffs, shared-device link analysis, executive recommendation | [Live demo](https://brandoncandela.github.io/fraud-intelligence-control-lab/) |
+| **[Crypto Exchange Monitoring Lab](https://github.com/brandoncandela/crypto-exchange-monitoring-lab)** | Python + six SQL controls over fictional exchange activity and public sanctions evidence. Separate customer/alert metrics, missed-case evaluation and a control-tuning case study support defensible change decisions. | [Live demo](https://brandoncandela.github.io/crypto-exchange-monitoring-lab/) · [Source](https://github.com/brandoncandela/crypto-exchange-monitoring-lab) |
+| **[Fraud Intelligence & Control Lab](https://github.com/brandoncandela/fraud-intelligence-control-lab)** | Python + SQL features and shared-device analysis connect a synthetic fraud incident to control tradeoffs and an executive recommendation. | [Live demo](https://brandoncandela.github.io/fraud-intelligence-control-lab/) · [Source](https://github.com/brandoncandela/fraud-intelligence-control-lab) |
+| **[SQL Financial Crime Lab](https://github.com/brandoncandela/sql-fincrime-lab)** | Real SQLite joins, CTEs and window functions expose the missed-case cost of AML rule changes, with an analyst/QC workflow. | [Live demo](https://brandoncandela.github.io/sql-fincrime-lab/) · [Source](https://github.com/brandoncandela/sql-fincrime-lab) |
+
+Independent educational work samples. Synthetic labels demonstrate control behavior, not production accuracy or verified illicit activity.
+
+## Additional Projects
+
+| Project | What it shows | Links |
+| --- | --- | --- |
 | **[Payments Strategy Lab](https://github.com/brandoncandela/payments-strategy-lab)** | Payments unit economics, approval rate vs. fraud loss, review staffing and a 90-day pilot memo | [Live demo](https://brandoncandela.github.io/payments-strategy-lab/) |
-| **[SQL Financial Crime Lab](https://github.com/brandoncandela/sql-fincrime-lab)** | Real SQLite in the browser: joins, CTEs, window functions, AML rule tuning and missed-case measurement | [Live demo](https://brandoncandela.github.io/sql-fincrime-lab/) |
 | **[Sanctions Review Desk](https://github.com/brandoncandela/sanctions-review-desk)** | OFAC name search, identifier comparison, export-control context, information requests and QC | [Live demo](https://brandoncandela.github.io/sanctions-review-desk/) |
 | **[Adverse Media Review Desk](https://github.com/brandoncandela/adverse-media-review-desk)** | Identity resolution that treats missing data as unknown, SQL triage views on SQLite / D1 | [Live demo](https://brandoncandela.github.io/adverse-media-review-desk/) |
 | **[Trace Desk AML Workspace](https://github.com/brandoncandela/trace-desk-aml-workspace)** | Live Ethereum USDT tracing, evidence pinning and portable case files | [Live demo](https://brandoncandela.github.io/trace-desk-aml-workspace/) |
