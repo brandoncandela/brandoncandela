@@ -1,6 +1,6 @@
 # Hi, I'm Brandon Candela 👋
 
-**CAMS- and PMP-certified AML & KYC consultant** currently on contract at **TD Bank since August 2026**, with five years across **KPMG, IBM Promontory, Deutsche Bank and BNY Mellon**, and front-line branch banking at **JPMorgan Chase**. I build working tools for fraud, transaction monitoring, sanctions and crypto investigations, so you can see how I think through a case.
+**CAMS- and PMP-certified AML & KYC consultant** currently on contract at **TD Bank since August 2026**, with six years across **KPMG, IBM Promontory, Deutsche Bank and BNY Mellon**, and front-line branch banking at **JPMorgan Chase**. I build working tools for fraud, transaction monitoring, sanctions and crypto investigations, so you can see how I think through a case.
 
 **[Visit my portfolio →](https://brandoncandela.github.io/)** · [LinkedIn](https://www.linkedin.com/in/brandon-candela/) · [Email](mailto:Brandon.d.candela@gmail.com) · Open to fintech, AML and risk roles (remote or New York)
 
