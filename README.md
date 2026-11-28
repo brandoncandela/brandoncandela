@@ -6,7 +6,7 @@
 
 I build the systems financial crime teams depend on: monitoring rules, entity resolution, blockchain tracing and investigation workflows. Six years inside AML at TD Bank, KPMG, IBM Promontory and Deutsche Bank tell me what the real problem is. I own the architecture, implementation, testing and tradeoffs, and every project documents where it stops.
 
-CAMS · PMP · CRISC · English and Spanish
+Senior AML Consultant · TD Bank (contract) · CAMS · PMP · CRISC · English and Spanish
 
 **[Portfolio](https://brandoncandela.github.io/)** · **[Technical case studies](https://brandoncandela.github.io/case-studies/)** · [LinkedIn](https://www.linkedin.com/in/brandon-candela/) · [Email](mailto:Brandon.d.candela@gmail.com) · Open to compliance tech, solutions and implementation roles (remote or New York)
 
@@ -22,6 +22,7 @@ CAMS · PMP · CRISC · English and Spanish
 
 | Build | What it does | Links |
 | --- | --- | --- |
+| **[AI SAR Narrative Lab](https://github.com/brandoncandela/ai-sar-narrative-lab)** | Claude drafts SAR narratives where every sentence cites its evidence; plain rules check every amount, date and citation before a person signs off | [Demo](https://brandoncandela.github.io/ai-sar-narrative-lab/) · [Case study](https://brandoncandela.github.io/case-studies/ai-sar-narrative-lab.html) |
 | **[Trace Desk](https://github.com/brandoncandela/trace-desk-aml-workspace)** ([v1](https://github.com/brandoncandela/usdt-investigator)) | Ethereum USDT investigations from raw node data to a checksummed case file and QC | [Demo](https://brandoncandela.github.io/trace-desk-aml-workspace/) · [Case study](https://brandoncandela.github.io/case-studies/trace-desk.html) |
 | **[Sanctions Review Desk](https://github.com/brandoncandela/sanctions-review-desk)** | OFAC name matches to a QC-ready decision, with the list refreshed hourly by GitHub Actions | [Demo](https://brandoncandela.github.io/sanctions-review-desk/) · [Case study](https://brandoncandela.github.io/case-studies/sanctions-review-desk.html) |
 | **[Adverse Media Review Desk](https://github.com/brandoncandela/adverse-media-review-desk)** | Is this news story about your customer? Same triage rules in TypeScript and SQL | [Demo](https://brandoncandela.github.io/adverse-media-review-desk/) · [Case study](https://brandoncandela.github.io/case-studies/adverse-media-review-desk.html) |
